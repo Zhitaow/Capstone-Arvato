@@ -46,5 +46,16 @@ To run Arvato Project Workbook.ipynb, you also need to copy the following files 
 - Udacity_CUSTOMERS_052018.csv (218.5 MB) Demographic data for customers of a mail-order company; 191652 persons (rows) x 369 features (columns).
 
 ### Summary <a name="summary"></a>
+A blog post has been posted [Here].(https://medium.com/@zhitaowang/investigating-customer-segments-and-predicting-response-rate-in-marketing-campaign-f024eb268b87)
+
+In this report, I have attempted to solve real-life data science problems posed by Arvato Financial Solutions. Below is a summary of my major achievement:
+
+In the first step, I have conducted exploratory analysis to gain better understanding about the datasets. Via accessing the missing values, I have found that individuals with a large portion of missing feature attributes are different from the majority. This cluster has been treated as a special group in throughout the analysis. Other feature re-encoding steps have been performed, including converting categorical features to dummy variables, and decomposing “mixed” features to “atomic” types.
+
+To investigate customer segmentation, I applied PCA transformation to gain a better understanding about the relationship of correlated features. Using k-means, I have segmented the general population and customers into 11 clusters. By comparing their distribution, I found the core customer base of the company. Some typical personal attributes of such clusters include a high income and a mature age.
+
+Finally, I have applied several popular machine learning algorithms to predict the probability of response rate of customers during a mail-out campaign. Using the LGBM model, I have achieved an AUC score of 0.79981 on Kaggle. I have also found a poor prediction in particular on the segment of individuals lacking too many informative features.
+
+
 
 
