@@ -46,7 +46,7 @@ To run Arvato Project Workbook.ipynb, you also need to copy the following files 
 - Udacity_CUSTOMERS_052018.csv (218.5 MB) Demographic data for customers of a mail-order company; 191652 persons (rows) x 369 features (columns).
 
 ### Summary <a name="summary"></a>
-A blog post has been posted [Here].(https://medium.com/@zhitaowang/investigating-customer-segments-and-predicting-response-rate-in-marketing-campaign-f024eb268b87)
+To read the full story, follow the blog post[Here](https://medium.com/@zhitaowang/investigating-customer-segments-and-predicting-response-rate-in-marketing-campaign-f024eb268b87).
 
 In this report, I have attempted to solve real-life data science problems posed by Arvato Financial Solutions. Below is a summary of my major achievement:
 
