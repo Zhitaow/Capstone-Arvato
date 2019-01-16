@@ -56,11 +56,20 @@ To investigate customer segmentation, I applied PCA transformation to gain a bet
 
 Finally, I have applied several popular machine learning algorithms to predict the probability of response rate of customers during a mail-out campaign. Using the LGBM model, I have achieved an AUC score of 0.79981 on Kaggle. I have also found a poor prediction in particular on the segment of individuals lacking too many informative features.
 
+![alt text](images/report-01.png)
+![alt text](images/report-02.png)
+![alt text](images/report-03.png)
+![alt text](images/report-04.png)
+![alt text](images/report-05.png)
+![alt text](images/report-06.png)
+![alt text](images/report-07.png)
+![alt text](images/report-08.png)
+![alt text](images/report-09.png)
+![alt text](images/report-10.png)
+![alt text](images/report-11.png)
+![alt text](images/report-12.png)
+![alt text](images/report-13.png)
 
-<object data="https://github.com/Zhitaow/Capstone-Arvato/blob/main/report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/Zhitaow/Capstone-Arvato/blob/main/report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Zhitaow/Capstone-Arvato/blob/main/report.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
 
 
