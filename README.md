@@ -56,6 +56,8 @@ To investigate customer segmentation, I applied PCA transformation to gain a bet
 
 Finally, I have applied several popular machine learning algorithms to predict the probability of response rate of customers during a mail-out campaign. Using the LGBM model, I have achieved an AUC score of 0.79981 on Kaggle. I have also found a poor prediction in particular on the segment of individuals lacking too many informative features.
 
+![alt text](report.png)
+
 
 
 
